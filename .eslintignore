@@ -1,4 +1,4 @@
-# Ignore artifacts:
+# Ignore2 artifacts:
 lib
 coverage
 *.lock
